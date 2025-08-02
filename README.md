@@ -72,3 +72,10 @@ npm run dev
 
 # Build for production
 npm run build
+
+```
+
+## 🧑‍💻 Developer
+
+Made by **Muhammad Yusuf Aditiya (Myfza)**  
+🔗 [GitHub](https://github.com/Myfza) | [LinkedIn](https://www.linkedin.com/in/myfza)
